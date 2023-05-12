@@ -1,1 +1,2 @@
 This is the sample file to test the git.
+This is the test of fetch and merge
