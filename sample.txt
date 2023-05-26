@@ -7,4 +7,4 @@ test for the version control system
 
 for the git conflict
 for the pull request
-for the git
+for the git for the test
